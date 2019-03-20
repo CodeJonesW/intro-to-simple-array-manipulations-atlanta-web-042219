@@ -1,1 +1,3 @@
-using_push(array,)
+using_push(array,string)
+  array.push(string)
+end
